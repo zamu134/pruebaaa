@@ -1,0 +1,57 @@
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.csproj.AssemblyReference.cache
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.AssemblyInfoInputs.cache
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.AssemblyInfo.cs
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.csproj.CoreCompileInputs.cache
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\consulta a la base de dato.exe
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\consulta a la base de dato.deps.json
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\consulta a la base de dato.runtimeconfig.json
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\consulta a la base de dato.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\consulta a la base de dato.pdb
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thega\source\repos\consulta a la base de dato\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.csproj.CopyComplete
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.dll
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\refint\consulta a la base de dato.dll
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.pdb
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\consulta a la base de dato.genruntimeconfig.cache
+C:\Users\thega\source\repos\consulta a la base de dato\obj\Debug\net6.0\ref\consulta a la base de dato.dll
